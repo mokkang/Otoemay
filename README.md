@@ -1,2 +1,0 @@
-# Otoemay
-# jmok
